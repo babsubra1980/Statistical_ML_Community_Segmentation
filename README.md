@@ -8,7 +8,8 @@ The objective of this project is to perform RFM analysis and apply unsupervised 
 
 In this project, will use transnational data set from an online retail store which contains all the transactions occurring between certain dates. Will segement the customers based on RFM (R (Recency): Number of days since last purchase, F (Frequency): Number of tracsactions and M (Monetary): Total amount of transactions (revenue contributed)) so that the company can target its customers efficiently. Apply the K-means algorithm to the normalized RFM data. Will analyze the clusters obtained from K-means to understand the characteristics of each segment and then develop targeted marketing strategies or campaigns tailored to the needs and behaviors of each customer segment identified.
 
-image.png
+![image](https://github.com/babsubra1980/Statistical_ML_Community_Segmentation/assets/37005639/89fd164c-fcbf-4238-b8cf-4c43a44dbf34)
+
 
 Our goal is to cluster the customers in the given dataset to:
 
